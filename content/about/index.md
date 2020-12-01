@@ -1,14 +1,14 @@
 ---
 title: "About"
 date: 2020-11-02T19:58:42-05:00
-draft: true
+draft: false
 resources:
 - name: "featured-image"
-  src: "MePic.jpg"
+  src: "CityProfile.jpg"
 
 lightgallery: true
 ---
-![Michael G. Mayoral](MePic.JPG "ITS ME")
+![Michael G. Mayoral](CityProfileWide.jpg)
 ### Hi, I'm Michael G. Mayoral
 
 I'm a System Administrator that loves PowerShell, automating, and everything DevOps. I like to explore ways to implement DevOps practices in places without the "Devs", or how I like to call it "Ops by Code".
